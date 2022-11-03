@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "phase4project", "phase4project\phase4project.csproj", "{7351193C-05A3-4882-B1E5-9FBC5EF7B784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{BB2B8FCA-6729-4ADB-92FE-1D14746CA57D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DALTest", "DALTest\DALTest.csproj", "{C15B0AC6-E116-4714-97CF-198D7178D1BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7351193C-05A3-4882-B1E5-9FBC5EF7B784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7351193C-05A3-4882-B1E5-9FBC5EF7B784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7351193C-05A3-4882-B1E5-9FBC5EF7B784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7351193C-05A3-4882-B1E5-9FBC5EF7B784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB2B8FCA-6729-4ADB-92FE-1D14746CA57D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2B8FCA-6729-4ADB-92FE-1D14746CA57D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2B8FCA-6729-4ADB-92FE-1D14746CA57D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2B8FCA-6729-4ADB-92FE-1D14746CA57D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C15B0AC6-E116-4714-97CF-198D7178D1BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C15B0AC6-E116-4714-97CF-198D7178D1BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C15B0AC6-E116-4714-97CF-198D7178D1BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C15B0AC6-E116-4714-97CF-198D7178D1BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACADD637-FB9D-4DE1-BE2A-CF714E43C987}
+	EndGlobalSection
+EndGlobal
